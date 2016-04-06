@@ -16,11 +16,10 @@ public class Solution12
 {
     public static void main(String[] args)
     {
-        Solution s = new Solution();
-        System.out.println(s.intToRoman(2000));
+        System.out.println(intToRoman(2000));
     }
 
-    public String intToRoman(int a)
+    public static String intToRoman(int a)
     {
         String sNumber = "";
         if(a < 5)
