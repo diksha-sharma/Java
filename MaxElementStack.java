@@ -12,7 +12,7 @@ import java.util.regex.*;
  *  Problem statement: https://www.hackerrank.com/challenges/maximum-element
  */
 
-public class Solution
+public class MaxElementStack
 {
     public static void main(String[] args)
     {
